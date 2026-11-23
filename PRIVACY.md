@@ -1,6 +1,6 @@
 # CC Study privacy
 
-Applies to CC Study 1.0 beta, November 23, 2026.
+Applies to CC Study 1.0 and 1.0.1 betas, November 23, 2026.
 
 The app stores selected answers, attempt counts, per-question progress and the active question in its own local SQLite database. These records are used to resume practice and choose review questions. No study history is transmitted by the app.
 

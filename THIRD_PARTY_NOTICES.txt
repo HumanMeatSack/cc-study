@@ -1,4 +1,4 @@
-CC Study 1.0 beta — third-party notices
+CC Study 1.0.1 beta — third-party notices
 
 The application source is not published in this download repository. This notice does not relicense the application.
 
